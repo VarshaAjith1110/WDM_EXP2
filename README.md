@@ -42,7 +42,14 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+## BUYING DATASET:
+![image](https://github.com/VarshaAjith1110/WDM_EXP2/assets/94222288/7ccc9354-a3df-4985-9537-4776a7b61150)
 
+## BANKING DATASET:
+![image](https://github.com/VarshaAjith1110/WDM_EXP2/assets/94222288/bba75837-2291-448a-be5c-7827b31e123f)
+
+## EMPLOYEE DATASET:
+![image](https://github.com/VarshaAjith1110/WDM_EXP2/assets/94222288/c1beadb1-177e-4dd1-ab83-35834047eaad)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,5 +60,14 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+## BUYING DATASET:
+![image](https://github.com/VarshaAjith1110/WDM_EXP2/assets/94222288/74c7861d-5f8c-49f2-bb8e-dbe52b4c8ffc)
+
+## BANKING DATASET:
+![image](https://github.com/VarshaAjith1110/WDM_EXP2/assets/94222288/36da3dbf-ae77-4e6f-b159-99f5c2cf7736)
+## EMPLOYEE DATASET:
+![image](https://github.com/VarshaAjith1110/WDM_EXP2/assets/94222288/9a1e0239-552e-44b6-abdc-aa5326cf8c39)
+
 
 ### RESULT: 
+Thus, generation of association rules using apriori algorithm is executed succesfully.
